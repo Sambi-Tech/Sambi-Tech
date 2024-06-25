@@ -16,9 +16,9 @@ I am a certified Scrum Agilist & Data Enthusiast Who is passionate about effecti
 
 
 
-## 🏆 GitHub Trophies
+<## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sambi-tech&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
