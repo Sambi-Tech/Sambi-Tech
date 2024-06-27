@@ -5,7 +5,7 @@ I am a certified Scrum Agilist & Data Enthusiast Who is passionate about effecti
 
 
 - 🌱 I’m currently learning data analysis
-- 🛠 I'm currently working on building an ETL framework in excel
+- 🛠 I'm currently working on building a data pipeline!
 
 
 # 💻 Tech Stack:
