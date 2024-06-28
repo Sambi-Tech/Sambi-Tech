@@ -5,7 +5,8 @@ I am a certified Scrum Agilist & Data Enthusiast Who is passionate about effecti
 
 
 - 🌱 I’m currently learning data analysis
-- 🛠 I'm currently working on building a data pipeline!
+- 🤓 I'm currently working on building a data pipeline!
+- 🛠check out my portfolio website https://sambi-tech.github.io for more details on my projects
 
 
 # 💻 Tech Stack:
