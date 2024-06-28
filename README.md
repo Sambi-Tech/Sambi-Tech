@@ -1,4 +1,4 @@
-## Hi I am Sambi!
+# Hi I am Sambi!
 
 I am a certified Scrum Agilist & Data Enthusiast Who is passionate about effective product management and driving technology-related processes to optimize business operations. Experienced in leveraging data management and analysis capabilities to support organizational growth and innovation.
 
